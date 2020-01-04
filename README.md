@@ -48,10 +48,10 @@ deactivate
 
 ## Usage
 
-** To run Locally**: navigate to the ```notebook``` directory and lunch Jupyter Lab as:
+**To run Locally**: navigate to the ```notebook``` directory and lunch Jupyter Lab as:
 
 ```Python
 jupyter lab altair_talk_pydata_madison_2020.ipynb
 ```
 
-** To run Remotely**: click in the ```binder``` icon. This will build a docker instance of the repo that runs on the cloud
+**To run Remotely**: click in the ```binder``` icon. This will build a docker instance of the repo that runs on the cloud
