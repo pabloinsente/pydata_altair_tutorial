@@ -21,7 +21,7 @@
 - A grammar, is expressive and generative, allowing the creation of graphics beyond the limits of graph taxonomies
 - Aesthetics "offers principles for relating sensory attributes (color, shape, sound, etc.) to abstractions"
 - Charts are instances of more general objects: for instance, "a pie is a divided bar in polar coordinates, we can construct other polar graphics that are less well known"
-- Computationally, implementing a grammar of graphics is better, because it allows reusability of general objects. Otherwise, each type of chart may requieres new code and structures, making it unnecesarily complex
+- Computationally, implementing a grammar of graphics is better, because it allows reusability of general objects. Otherwise, each type of chart may requires new code and structures, making it unnecesarily complex
 
 ### Three main stages of graphic creation:
 
@@ -49,8 +49,7 @@ specify a scene containing those objects"
 - VEGA: Vega is a visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs
 - VEGA-Lite: Vega-Lite is a high-level grammar of interactive graphics (High level API for Vega)
 
-"Altair’s Python API emits Vega-Lite JSON data,which is then rendered in a user-interface such as the Jupyter Notebook, JupyterLab, or nteract using the Vega-Lite JavaScript library. Vega-Lite JSON is compiled to a full Vega
-specification (Satyanarayan, Russell, Hoffswell, & Heer, 2016), which is then parsed and executed using a reactive runtime that internally makes use of D3.js (Bostock, Ogievetsky, & Heer, 2011)"
+"Altair’s Python API emits Vega-Lite JSON data, which is then rendered in a user-interface such as the Jupyter Notebook, JupyterLab, or nteract using the Vega-Lite JavaScript library. Vega-Lite JSON is compiled to a full Vega specification (Satyanarayan, Russell, Hoffswell, & Heer, 2016), which is then parsed and executed using a reactive runtime that internally makes use of D3.js (Bostock, Ogievetsky, & Heer, 2011)"
 
 ## Vega primitives:
 - Data
@@ -87,8 +86,7 @@ specification (Satyanarayan, Russell, Hoffswell, & Heer, 2016), which is then pa
 
 ### Basic components:
 - Data: input data to visualize, a relational table consisting of rows and columns.
-- Transforms: data can be subject to trans
- such as filter, aggregation, binning, etc
+- Transforms: data can be subject to trans such as filter, aggregation, binning, etc
 - Mark: specifies the geometric object to visually encode data-records such as bar, line, area, text, rule, and symbols (point and tick)
 - Encoding: mapping between data attributes (cols) and properties of visual marks such as position (x, y), color, shape, size, and text.
 - Scale: functions that map data values to visual values
