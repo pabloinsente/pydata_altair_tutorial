@@ -5,9 +5,9 @@
 
 -> # Data Visualization with Altair: a grammar of graphics for Python <-
 
--> _Pablo Caceres_ <-
--> _01-23-2020_ <-
--> pcaceres@wisc.edu <-
+-> *Pablo Caceres* <-
+-> *01-23-2020* <-
+-> *pcaceres@wisc.edu* <-
 
 
 -> ## Outline <-
@@ -26,11 +26,11 @@
 
 ***
 
--> # Two approaches to data visualization APIs: tell me _how_ and tell me _what_<-
+-> # Two approaches to data visualization APIs: tell me how and tell me what <-
 
 
 <br>
-- **Imperative approach**: specifies the **"how"** (e.g., matplotlib):
+- **Imperative approach**: specifies the *_how_* (e.g., matplotlib):
 
 <br>
     - _Pros_: **fine-graned control** over chart specification
@@ -39,7 +39,7 @@
     - _Cons_: **Verbose**, makes you think about low-level visualization details
 
 <br>
-- **Declarative approach**: specifies the **"what"** (e.g., altair, plotnine (ggplot2)):
+- **Declarative approach**: specifies the *_what_* (e.g., altair, plotnine (ggplot2)):
 
 <br>
     - _Pros_: fast development, conciseness, and lets you **concentrate on visualization content**
@@ -49,7 +49,7 @@
 
 ***
 
--> # Wilkinson's Grammar of graphics: <-
+-> # Wilkinson's Grammar of graphics <-
 
 
 <br>
@@ -66,7 +66,7 @@
 
 ***
 
--> # Why a grammar instead of a taxonomy? <- 
+-> # Why a grammar instead of a taxonomy? <-
 
 
 <br>
@@ -80,7 +80,7 @@
 
 ***
 
--> # Core elements of any statistical graphics specification (Wilkinson): <-
+-> # Core elements of any statistical graphics specification (Wilkinson) <-
 
 
 <br>
@@ -137,7 +137,7 @@ _Wilkinson_: *"These components link data to objects and specify a scene contain
 
 ***
 
--> # Altair's/Vega-Lite's building blocks: <-
+-> # Altair's/Vega-Lite's building blocks <-
 
 <br>
 - **Data**: input data to visualize, a relational table consisting of rows and columns.
@@ -159,7 +159,7 @@ _Wilkinson_: *"These components link data to objects and specify a scene contain
 
 ***
 
--> Note: <-
+-> # Important note <-
 
 <br>
 This tutorial/talk is based on a series of **online resources** that you may want to give a closer look: 
@@ -167,8 +167,10 @@ This tutorial/talk is based on a series of **online resources** that you may wan
 <br>
 - [Wilkinson, L. (2005). The Grammar of Graphics. Springer](https://www.springer.com/gp/book/9780387245447)
 
+<br>
 - [VanderPlas, et all (2018). Altair: Interactive statistical visualizations for python. Journal of open source software, 3(32), 1057.](https://idl.cs.washington.edu/files/2018-Altair-JOSS.pdf)
 
+<br>
 - [Satyanarayan, A., Moritz, D., Wongsuphasawat, K., & Heer, J. (2016). Vega-lite: A grammar of interactive graphics. IEEE transactions on visualization and computer graphics, 23(1), 341-350.](https://idl.cs.washington.edu/files/2017-VegaLite-InfoVis.pdf)
 
 
@@ -179,6 +181,8 @@ This tutorial/talk is based on a series of **online resources** that you may wan
 <br>
 - [Dominik Moritz and Kanit Wongsuphasawat - Vega-Lite: A Grammar of Interactive Graphics](https://www.youtube.com/watch?v=Nsrz4YdaZ_A)
 
+<br>
 - [Jake VanderPlas - Exploratory Data Visualization with Vega, Vega-Lite, and Altair](https://www.youtube.com/watch?v=ms29ZPUKxbU)
 
+<br>
 - [Leland Wilkinson, H2O.ai - The Grammar of Graphics and the Future of Big Data Visualization](https://www.youtube.com/watch?v=1X93Sum_SyM)
