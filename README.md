@@ -2,7 +2,7 @@
 
 This a talk and interactive tutorial about Altair 4.0
 
-Altair provides a elegant and consistent API for statistical graphics. Altair is built on top of the Vega-Lite high-level grammar for interactive graphics which is based on the "grammar of graphics" idea proposed by Leland Wilkinson. Altair's key strength is the provision of clear mental model based on a set of graphical primitives and carefully designed combinatoric rules, that yields an ample space of graphical displays, avoiding the constrains of chart taxonomies.
+Altair provides an elegant and consistent API for statistical graphics. Altair is built on top of the Vega-Lite high-level grammar for interactive graphics which is based on the "grammar of graphics" idea proposed by Leland Wilkinson. Altair's key strength is the provision of a clear mental model based on a set of graphical primitives and carefully designed combinatoric rules, that yields an ample space of graphical displays, avoiding the constraints of chart taxonomies.
 
 In this talk/tutorial, we will learn the fundamental building blocks of Altair/Vega-Lite's interface and design.
 
@@ -32,7 +32,7 @@ cd pydata_altair_tutorial
 
 Note that you may need to change the path to cd into the directory.  
 
- Then run this inside that directory to create the virtual environment:
+Then run this inside that directory to create the virtual environment:
 
 ```Python
 python3 -m venv venv
@@ -49,7 +49,6 @@ Install dependencies by running:
 ```Python
 pip install -r requirements.txt
 ```
-
 
 **To run the notebook**, navigate to the ```notebooks``` directory and launch Jupyter Lab as:
 
