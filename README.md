@@ -1,6 +1,6 @@
 # Data Visualization with Altair: a grammar of graphics for Python
 
-This a talk and interactive tutorial about Altair 4.0
+This a talk and interactive tutorial about Altair (3.3.0)
 
 Altair provides an elegant and consistent API for statistical graphics. Altair is built on top of the Vega-Lite high-level grammar for interactive graphics which is based on the "grammar of graphics" idea proposed by Leland Wilkinson. Altair's key strength is the provision of a clear mental model based on a set of graphical primitives and carefully designed combinatoric rules, that yields an ample space of graphical displays, avoiding the constraints of chart taxonomies.
 
