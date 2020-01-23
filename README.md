@@ -44,6 +44,12 @@ And activate your environment by running:
 source venv/bin/activate
 ```
 
+Make sure to have the latest pip version:
+
+```bash
+pip install --upgrade pip
+```
+
 Install dependencies by running:
 
 ```Python
