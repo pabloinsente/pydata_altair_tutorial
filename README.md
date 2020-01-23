@@ -10,7 +10,7 @@ In this talk/tutorial, we will learn the fundamental building blocks of Altair/V
 
 ### Option 1: Cloud-based environment (prefered)
 
-Click in the ```binder``` icon -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pabloinsente/pydata_altair_tutorial/078bfb1af4b01d5e4d1d89fef0904eecdfcc5778/?urlpath=lab).  
+Click in the ```binder``` icon -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pabloinsente/pydata_altair_tutorial/7da77b01516497f1b0e2ee741c1360ba47563e8a/?urlpath=lab)
 
 This will build a docker image of the repo that runs on the cloud. Beware that it may take 2-3 minutes to be ready.
 
