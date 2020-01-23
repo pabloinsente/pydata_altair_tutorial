@@ -59,5 +59,5 @@ pip install -r requirements.txt
 **To run the notebook**, navigate to the ```notebooks``` directory and launch Jupyter Lab as:
 
 ```Python
-jupyter lab altair_tutorial_pydata_madison_2020.ipynb
+jupyter lab ./notebooks/altair_tutorial_pydata_madison_2020.ipynb
 ```
