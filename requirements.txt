@@ -1,5 +1,5 @@
 altair==3.3.0
 numpy==1.18.0
 pandas==0.25.3
-jupyterlab==1.2.4
+jupyterlab==1.2.21
 vega_datasets
